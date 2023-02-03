@@ -32,7 +32,7 @@ from plotly.subplots import make_subplots
 
 # Conectar con la base de datos
 conexion=mysql.connector.connect(user='root',
-                                 password='root11235813*',
+                                 password='root',
                                  host='localhost',
                                  database='dump_desafio_usuarios_3',
                                  port='3306',
